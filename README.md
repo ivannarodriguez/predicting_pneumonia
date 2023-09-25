@@ -1,5 +1,5 @@
 # Predicting Pneumonia
-## Jimena Salinas, Ivanna Rodríguez, Santiago Segovia, Stephania Tello
+### Jimena Salinas, Ivanna Rodríguez, Santiago Segovia, Stephania Tello
 ### Final Project: Machine Learning for Public Policy
 
 We develop a computer vision deep learning model to predict pneumonia from chest X-ray images in Pytorch, with the image dataset obtained from Kermany et al. (2018) in Kaggle. We first start with an overview of the literature on deep learning models used for medical imaging and discuss their advantages and limitations, taking a particular look at a successful model used to predict different pulmonary diseases as motivation for our project. We then describe our technical approach to data preparation and construction of our model. Finally, we discuss our model results through accuracy and F1 metrics. We find that our baseline two-layered convolutional neural network and the alternate three-layer model both have a testing accuracy and F1 score around 80%.
